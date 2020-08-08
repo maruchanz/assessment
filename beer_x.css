@@ -1,0 +1,25 @@
+  body {
+    background-image: url(./johana.jpg);
+    background-size: cover;
+    color: black;
+    width: 500px;
+    margin-right: auto;
+    margin-left : auto;
+
+  }
+  
+  button {
+    padding: 5px 20px;
+    background-color: #337AB7;
+    border-style: none;
+  }
+  .a{
+    color:black
+  }
+  input {
+    height: 20px;
+  }
+
+  li{
+    font-weight: 300;
+  }
